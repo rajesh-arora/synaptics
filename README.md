@@ -1,5 +1,1 @@
-wqddsdasd
-ds
-s
-dss
-
+# synaptics
